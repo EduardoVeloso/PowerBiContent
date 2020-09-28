@@ -1,6 +1,6 @@
 # <a id="top" />Power Bi
 ###### Repositório com conteúdos de Power Bi:
-* [Certificação](#certicado)
+* [Certificação](#certificado)
 * [Artigos](#artigo)
 * [Modelo](#model)
 * [Power Query](#power-query)
