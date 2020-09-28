@@ -1,5 +1,5 @@
 # Power Bi Content
-###### Repository with content of Power Bi: 
+###### Repository with content of Power Bi:
 * Articles
 * [Model](#model)
 * [Power Query](#power-query)
@@ -7,12 +7,11 @@
 * Some Queries
 
 ## <a id="model" />Model
-
 * Esquema estrela - https://docs.microsoft.com/pt-br/power-bi/guidance/star-schema
 * Base de dados de exemplos - https://docs.microsoft.com/pt-br/power-bi/create-reports/sample-datasets
 * Dados abertos - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
 
-### [Power Query](#power-query)
+## <a id="power-query" />Power Query
 * Formatar código M - http://powerqueryformatter.com/
 * Combinar funções M - https://powerpivotpro.com/2018/06/powerquery-magic-combine-m-functions-and-formulas-in-custom-columns/
 * Tabelas em M - https://ssbi-blog.de/blog/technical-topics-english/tables-in-power-query-how-when-and-why/
@@ -36,7 +35,7 @@
 * List.Accumulate para substituir caracteres - https://chandoo.org/wp/multiple-find-replace-list-accumulate/
 * Arquivo texto sem delimitador - https://powerpivotpro.com/2016/03/power-query-fixed-width-magic/
 
-### [DAX](#dax)
+## <a id="dax" />DAX
 * Formatar medidas DAX - https://www.daxformatter.com/
 * Guia DAX de medidas - https://dax.guide/
 * Funções DAX Exemplo 1 - https://app.powerbi.com/view?r=eyJrIjoiOWUxYzM4YzEtZDE2YS00MWFjLWE4ZWMtNjJmYTZmZjc4MjY0IiwidCI6IjdkMjIwM2Y0LTRiMzQtNDc2OS05OWNlLWZkYzMyOWMyMGZiZSJ9
