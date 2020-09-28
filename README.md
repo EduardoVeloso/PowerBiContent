@@ -1,4 +1,4 @@
-# Power Bi Content
+# <a id="top" />Power Bi Content
 ###### Repository with content of Power Bi:
 * Articles
 * [Model](#model)
@@ -10,6 +10,8 @@
 * Esquema estrela - https://docs.microsoft.com/pt-br/power-bi/guidance/star-schema
 * Base de dados de exemplos - https://docs.microsoft.com/pt-br/power-bi/create-reports/sample-datasets
 * Dados abertos - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
+  
+  [Top](#top)
 
 ## <a id="power-query" />Power Query
 * Formatar código M - http://powerqueryformatter.com/
@@ -34,6 +36,8 @@
 * Linhas p/ Colunas2 - https://www.youtube.com/watch?v=oNGHsmHA7s0
 * List.Accumulate para substituir caracteres - https://chandoo.org/wp/multiple-find-replace-list-accumulate/
 * Arquivo texto sem delimitador - https://powerpivotpro.com/2016/03/power-query-fixed-width-magic/
+  
+  [Top](#top)
 
 ## <a id="dax" />DAX
 * Formatar medidas DAX - https://www.daxformatter.com/
@@ -57,3 +61,5 @@
 * Medida para converter bytes para KB, MB, GB - https://community.powerbi.com/t5/Desktop/Function-to-convert-bytes-into-KB-MB-GB-TB-PB-etc/td-p/468023
 * Mostrar meses anteriores - https://www.linkedin.com/pulse/saiba-como-mostrar-mesmo-eixo-os-n-meses-anteriores-ao-pedro-eloy/
 * Analisar dados no Excel - https://eriksvensen.wordpress.com/2020/07/27/powerbi-external-tool-to-connect-excel-to-the-current-pbix-file/
+  
+  [Top](#top)
