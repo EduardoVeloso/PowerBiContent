@@ -1,0 +1,22 @@
+//Tratamento de células mescladas no cabeçalho
+let
+    Source = Excel.Workbook(File.Contents("C:\Users\evelo\Desktop\Pasta1.xlsx"), null, true),
+    Planilha1_Sheet = Source{[Item="Planilha1",Kind="Sheet"]}[Data],
+    ano = Planilha1_Sheet{0},
+    mes = Planilha1_Sheet{1},
+    TabelaAno = Record.ToTable(ano),
+    TabelaMes = Record.ToTable(mes),
+    Merged = Table.NestedJoin(TabelaAno, {"Name"}, TabelaMes, {"Name"}, "mes", JoinKind.LeftOuter),
+    #"Expanded mes" = Table.ExpandTableColumn(Merged, "mes", {"Value"}, {"Value.1"}),
+    #"Reordered Columns" = Table.ReorderColumns(#"Expanded mes",{"Name", "Value.1", "Value"}),
+    #"Filled Down" = Table.FillDown(#"Reordered Columns",{"Value"}),
+    #"Merged Columns" = Table.CombineColumns(Table.TransformColumnTypes(#"Filled Down", {{"Value", type text}}, "pt-BR"),{"Value.1", "Value"},Combiner.CombineTextByDelimiter("/", QuoteStyle.None),"Merged"),
+    #"Renamed Columns" = Table.RenameColumns(#"Merged Columns",{{"Merged", "Value"}}),
+    Custom1 = Record.FromTable(#"Renamed Columns"),
+    Custom2 = Table.InsertRows(Planilha1_Sheet,0,{Custom1}),
+    #"Promoted Headers" = Table.PromoteHeaders(Custom2, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"/nome", type text}, {"jan/2019", type any}, {"fev/2019", type any}, {"mar/2019", type any}, {"abr/2019", type any}, {"mai/2019", type any}, {"jun/2019", type any}, {"jan/2020", type any}, {"fev/2020", type any}, {"mar/2020", type any}, {"abr/2020", type any}, {"mai/2020", type any}, {"jun/2020", type any}}),
+    #"Removed Top Rows" = Table.Skip(#"Changed Type",2),
+    #"Renamed Columns1" = Table.RenameColumns(#"Removed Top Rows",{{"/nome", "nome"}})
+in
+    #"Renamed Columns1"

@@ -1,0 +1,9 @@
+//Considerar Datas Feriado
+let
+    Source = Web.BrowserContents("https://www.anbima.com.br/feriados/fer_nacionais/2020.asp"),
+    #"Extracted Table From Html" = Html.Table(Source, {{"Column1", "TABLE.interna > * > TR > :nth-child(1)"}, {"Column2", "TABLE.interna > * > TR > :nth-child(2)"}, {"Column3", "TABLE.interna > * > TR > :nth-child(3)"}}, [RowSelector="TABLE.interna > * > TR"]),
+    #"Promoted Headers" = Table.PromoteHeaders(#"Extracted Table From Html", [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Data", type date}, {"Dia da Semana", type text}, {"Feriado", type text}}),
+    #"Appended Query" = Table.Combine({#"Changed Type", FeriadosNacionais2019, FeriadosNacionais2018})
+in
+    #"Appended Query"
