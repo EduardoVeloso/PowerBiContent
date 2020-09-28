@@ -4,6 +4,7 @@
 * [Artigos](#artigo)
 * [Power Query](#power-query)
 * [DAX](#dax)
+* [Contato](#contato)
 
 ## <a id="certificado" />Certificação
 * Site oficial - https://docs.microsoft.com/pt-br/learn/certifications/exams/70-778
@@ -99,9 +100,7 @@
   
   [Top](#top)
   
-Meus contatos:
-  
-  LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardoveloso/)
-
-  Portfolio: [DataPowerBR](https://www.datapowerbr.com/portfolio/)
+## <a id="contato" />Contato
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardoveloso/)
+* Portfolio: [DataPowerBR](https://www.datapowerbr.com/portfolio/)
 
