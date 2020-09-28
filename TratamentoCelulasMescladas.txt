@@ -1,4 +1,4 @@
-//Tratamento de células mescladas no cabeçalho
+//Tratamento de cÃ©lulas mescladas no cabeÃ§alho
 let
     Source = Excel.Workbook(File.Contents("C:\Users\evelo\Desktop\Pasta1.xlsx"), null, true),
     Planilha1_Sheet = Source{[Item="Planilha1",Kind="Sheet"]}[Data],
