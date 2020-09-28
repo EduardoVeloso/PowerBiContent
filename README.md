@@ -1,10 +1,19 @@
 # <a id="top" />Power Bi
 ###### Repositório com conteúdos de Power Bi:
+* [Blogs](#blog)
 * [Certificação](#certificado)
 * [Artigos](#artigo)
 * [Power Query](#power-query)
 * [DAX](#dax)
 * [Contato](#contato)
+
+## <a id="blog" />Blogs
+* Chris Webb - https://blog.crossjoin.co.uk/
+* Aprenda Power Bi - https://aprendapowerbi.com.br/blog/
+* BI conceito a pratica - http://www.bidoconceitoapratica.com.br/
+* Power Bi Artes - http://www.powerbiarte.com.br/
+* Radacad blog - https://radacad.com/blog
+* Power Bi Tips and Tricks - https://powerbi.tips/
 
 ## <a id="certificado" />Certificação
 * Site oficial - https://docs.microsoft.com/pt-br/learn/certifications/exams/70-778
