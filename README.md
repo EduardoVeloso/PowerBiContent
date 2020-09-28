@@ -2,7 +2,6 @@
 ###### Repositório com conteúdos de Power Bi:
 * [Certificação](#certificado)
 * [Artigos](#artigo)
-* [Modelo](#model)
 * [Power Query](#power-query)
 * [DAX](#dax)
 
@@ -37,15 +36,8 @@
 * Data Privacy part 3 Chris Webb - https://blog.crossjoin.co.uk/2017/06/26/data-privacy-settings-in-power-bipower-query-part-3-the-formula-firewall-error/
 * Data Privacy part 4 Chris Webb - https://blog.crossjoin.co.uk/2017/07/04/data-privacy-settings-in-power-bipower-query-part-4-disabling-data-privacy-checks/
 * Data Privacy part 5 Chris Webb - https://blog.crossjoin.co.uk/2017/07/10/data-privacy-settings-in-power-bipower-query-part-5-the-inheritance-of-data-privacy-settings-and-the-none-data-privacy-level/
+* Bases de dados - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
  
-  [Top](#top)
-
-## <a id="model" />Modelo
-* Esquema estrela - https://docs.microsoft.com/pt-br/power-bi/guidance/star-schema
-* Base de dados de exemplos - https://docs.microsoft.com/pt-br/power-bi/create-reports/sample-datasets
-* Dados abertos - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
-* Reationship Power Bi - https://www.sqlbi.com/articles/relationships-in-power-bi-and-tabular-models/?nu=46418
-
   [Top](#top)
 
 ## <a id="power-query" />Power Query
