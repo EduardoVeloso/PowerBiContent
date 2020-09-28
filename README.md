@@ -99,5 +99,9 @@
   
   [Top](#top)
   
-[LinkedIn](https://www.linkedin.com/in/eduardoveloso/)  
+Meus contatos:
+  
+  LinkedIn: [LinkedIn](https://www.linkedin.com/in/eduardoveloso/)
+
+  Portfolio: [DataPowerBR](https://www.datapowerbr.com/portfolio/)
 
