@@ -1,16 +1,51 @@
-# <a id="top" />Power Bi Content
-###### Repository with content of Power Bi:
-* Articles
-* [Model](#model)
+# <a id="top" />Power Bi
+###### Repositório com conteúdos de Power Bi:
+* [Certificação](#certicado)
+* [Artigos](#artigo)
+* [Modelo](#model)
 * [Power Query](#power-query)
 * [DAX](#dax)
-* Some Queries
 
-## <a id="model" />Model
+## <a id="certificado" />Certificação
+* Site oficial - https://docs.microsoft.com/pt-br/learn/certifications/exams/70-778
+* Conteúdo detalhado - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
+* Simulado Udemy - https://www.udemy.com/course/exam-70-778-microsoft-power-bi-practice-test-2019/learn/quiz/4615383/test?expanded=344147738#overview
+* Simulado ExamTopics - https://www.examtopics.com/exams/microsoft/70-778/
+* Dicas Leo Karpinski - https://aprendapowerbi.com.br/dicas-de-como-obter-a-certificacao-mcsa-bi-reporting-power-bi-excel/
+* Dicas Dirceu Resende - https://www.dirceuresende.com/blog/certificacoes-microsoft-material-de-estudo-para-as-provas-de-mcsa-do-sql-server-2016/#5
+* Dicas Dustin Ryan - https://sqldusty.com/2017/08/23/preparing-for-microsoft-certification-exam-70-778-analyzing-and-visualizing-data-with-microsoft-power-bi/
+* Dicas Forum Comunidade - https://community.powerbi.com/t5/Desktop/Power-BI-Exam-70-778/td-p/392118
+* Curso edX - https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+3T2019/course/#block-v1:Microsoft+DAT207x+3T2019+type@chapter+block@b593b1ac-07ec-8245-1328-bdc47535a3f6
+ 
+  [Top](#top)
+
+
+## <a id="artigo" />Artigos
+* Tipos de Join - Merge - https://app.powerbi.com/view?r=eyJrIjoiYmNhNzgzYjAtNjc2OS00YjQwLTgwNzItM2Q1MzcyMmJlYjMyIiwidCI6IjZjMGE1YjljLTA4OWEtNDk0ZS1iMDVlLTcxNjEwOTgyOTA0NyIsImMiOjF9
+* Choose the right join type - https://radacad.com/choose-the-right-merge-join-type-in-power-bi
+* DAX formulas Corbal - https://community.powerbi.com/t5/Data-Stories-Gallery/All-DAX-functions-and-corresponding-DAX-Fridays-tutorials/td-p/774426
+* Integrando e explorando a linguagem Python no Power BI - https://medium.com/@fernando.gama/integrando-e-explorando-a-linguagem-python-no-power-bi-6bd8ba0e60ed
+* Unicode - https://www.vertex42.com/ExcelTips/unicode-symbols.html
+* Tipos de licença - https://dynamics.folio3.com/blog/difference-between-power-bi-pro-vs-free-vs-premium/
+* Não uso Direct Query - https://aprendapowerbi.com.br/nao-use-directquery-otimize-o-modelo-use-agregacoes-e-modelos-compostos/
+* "Em branco" no filtro - https://www.youtube.com/watch?v=YoPiQh6Vkr4
+* Mapa Cloropletico - https://www.youtube.com/watch?v=JCKsjKcmKMg
+* Atualização incremental - http://www.rafaelmendonca.com/2020/06/incremental-powerbi-csv-api-excel-odbc.html
+* Níveis de privacidade Microsoft - https://docs.microsoft.com/pt-br/power-bi/admin/desktop-privacy-levels
+* Data Privacy part 1 Chris Webb - https://blog.crossjoin.co.uk/2017/05/24/data-privacy-settings-in-power-bipower-query-part-1-performance-implications/
+* Data Privacy part 2 Chris Webb - https://blog.crossjoin.co.uk/2017/05/31/data-privacy-settings-in-power-bipower-query-part-2-preventing-query-execution/
+* Data Privacy part 3 Chris Webb - https://blog.crossjoin.co.uk/2017/06/26/data-privacy-settings-in-power-bipower-query-part-3-the-formula-firewall-error/
+* Data Privacy part 4 Chris Webb - https://blog.crossjoin.co.uk/2017/07/04/data-privacy-settings-in-power-bipower-query-part-4-disabling-data-privacy-checks/
+* Data Privacy part 5 Chris Webb - https://blog.crossjoin.co.uk/2017/07/10/data-privacy-settings-in-power-bipower-query-part-5-the-inheritance-of-data-privacy-settings-and-the-none-data-privacy-level/
+ 
+  [Top](#top)
+
+## <a id="model" />Modelo
 * Esquema estrela - https://docs.microsoft.com/pt-br/power-bi/guidance/star-schema
 * Base de dados de exemplos - https://docs.microsoft.com/pt-br/power-bi/create-reports/sample-datasets
 * Dados abertos - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
-  
+* Reationship Power Bi - https://www.sqlbi.com/articles/relationships-in-power-bi-and-tabular-models/?nu=46418
+
   [Top](#top)
 
 ## <a id="power-query" />Power Query
@@ -36,6 +71,10 @@
 * Linhas p/ Colunas2 - https://www.youtube.com/watch?v=oNGHsmHA7s0
 * List.Accumulate para substituir caracteres - https://chandoo.org/wp/multiple-find-replace-list-accumulate/
 * Arquivo texto sem delimitador - https://powerpivotpro.com/2016/03/power-query-fixed-width-magic/
+* Uso de parâmetro 1 - https://www.biinsight.com/power-bi-desktop-query-parameters-part-1/
+* Uso de parâmetro 2 - https://www.biinsight.com/power-bi-desktop-query-parameters-part2-dynamic-data-masking-and-query-parameters/
+* Uso de parâmetro 3 - https://www.biinsight.com/power-bi-desktop-query-parameters-part2-dynamic-data-masking-and-query-parameters/
+* Uso de parâmetro 4 - https://www.biinsight.com/power-bi-desktop-query-parameters-part-3-list-output/
   
   [Top](#top)
 
@@ -61,5 +100,12 @@
 * Medida para converter bytes para KB, MB, GB - https://community.powerbi.com/t5/Desktop/Function-to-convert-bytes-into-KB-MB-GB-TB-PB-etc/td-p/468023
 * Mostrar meses anteriores - https://www.linkedin.com/pulse/saiba-como-mostrar-mesmo-eixo-os-n-meses-anteriores-ao-pedro-eloy/
 * Analisar dados no Excel - https://eriksvensen.wordpress.com/2020/07/27/powerbi-external-tool-to-connect-excel-to-the-current-pbix-file/
+* Grafico de Pareto - https://www.youtube.com/watch?v=53HK7_r4JXY&feature=youtu.be
+* Funções essenciais em DAX - https://www.youtube.com/watch?v=KGEkooDRSNQ&feature=youtu.be
+* Acumulado sem dimensão temporal - https://www.youtube.com/watch?v=XmyY-tIiUbU
+* Regressão linear - https://xxlbi.com/blog/simple-linear-regression-in-dax/
   
   [Top](#top)
+  
+[LinkedIn](https://www.linkedin.com/in/eduardoveloso/)  
+
