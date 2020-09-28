@@ -2,16 +2,17 @@
 ###### Repository with content of Power Bi: 
 * Articles
 * [Model](#model)
-* [Power Query - M Language](#m)
+* [Power Query](#power-query)
 * [DAX](#dax)
 * Some Queries
 
-### [Model](#model)
+## <a id="model" />Model
+
 * Esquema estrela - https://docs.microsoft.com/pt-br/power-bi/guidance/star-schema
 * Base de dados de exemplos - https://docs.microsoft.com/pt-br/power-bi/create-reports/sample-datasets
 * Dados abertos - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
 
-### [Power Query - M Language](#m)
+### [Power Query](#power-query)
 * Formatar código M - http://powerqueryformatter.com/
 * Combinar funções M - https://powerpivotpro.com/2018/06/powerquery-magic-combine-m-functions-and-formulas-in-custom-columns/
 * Tabelas em M - https://ssbi-blog.de/blog/technical-topics-english/tables-in-power-query-how-when-and-why/
