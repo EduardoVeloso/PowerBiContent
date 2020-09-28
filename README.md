@@ -14,6 +14,8 @@
 * Power Bi Artes - http://www.powerbiarte.com.br/
 * Radacad blog - https://radacad.com/blog
 * Power Bi Tips and Tricks - https://powerbi.tips/
+ 
+  [Top](#top)
 
 ## <a id="certificado" />Certificação
 * Site oficial - https://docs.microsoft.com/pt-br/learn/certifications/exams/70-778
