@@ -27,6 +27,7 @@
 * Dicas Dustin Ryan - https://sqldusty.com/2017/08/23/preparing-for-microsoft-certification-exam-70-778-analyzing-and-visualizing-data-with-microsoft-power-bi/
 * Dicas Forum Comunidade - https://community.powerbi.com/t5/Desktop/Power-BI-Exam-70-778/td-p/392118
 * Curso edX - https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+3T2019/course/#block-v1:Microsoft+DAT207x+3T2019+type@chapter+block@b593b1ac-07ec-8245-1328-bdc47535a3f6
+* Power Bi Experts - https://powerbiexpert.wordpress.com/power-bi-da-100-certification/
  
   [Top](#top)
 
