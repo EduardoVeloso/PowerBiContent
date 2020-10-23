@@ -50,6 +50,7 @@
 * Data Privacy part 4 Chris Webb - https://blog.crossjoin.co.uk/2017/07/04/data-privacy-settings-in-power-bipower-query-part-4-disabling-data-privacy-checks/
 * Data Privacy part 5 Chris Webb - https://blog.crossjoin.co.uk/2017/07/10/data-privacy-settings-in-power-bipower-query-part-5-the-inheritance-of-data-privacy-settings-and-the-none-data-privacy-level/
 * Bases de dados - https://medium.com/rladiesbh/19-lugares-para-encontrar-conjuntos-de-dados-gratuitos-para-projetos-de-ci%C3%AAncia-de-dados-4390943d860d
+* RLS - https://medium.com/@rehaddad/power-bi-seguran%C3%A7a-em-n%C3%ADvel-de-linha-row-level-security-252f25c988b8
  
   [Top](#top)
 
