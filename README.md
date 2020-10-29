@@ -81,6 +81,7 @@
 * Uso de parâmetro 2 - https://www.biinsight.com/power-bi-desktop-query-parameters-part2-dynamic-data-masking-and-query-parameters/
 * Uso de parâmetro 3 - https://www.biinsight.com/power-bi-desktop-query-parameters-part2-dynamic-data-masking-and-query-parameters/
 * Uso de parâmetro 4 - https://www.biinsight.com/power-bi-desktop-query-parameters-part-3-list-output/
+* Mesclar performatico - https://ibb.co/86rK1BR
   
   [Top](#top)
 
