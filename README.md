@@ -86,6 +86,7 @@
   [Top](#top)
 
 ## <a id="dax" />DAX
+* Funções: CALCULATETABLE, INTERSECT, EXCEPT, TREATAS, IN - https://powerbiexperience.com/pt/dax-como-usar-as-funcoes-calculatetable-intersect-except-treatas-in/
 * Formatar medidas DAX - https://www.daxformatter.com/
 * Guia DAX de medidas - https://dax.guide/
 * Funções DAX Exemplo 1 - https://app.powerbi.com/view?r=eyJrIjoiOWUxYzM4YzEtZDE2YS00MWFjLWE4ZWMtNjJmYTZmZjc4MjY0IiwidCI6IjdkMjIwM2Y0LTRiMzQtNDc2OS05OWNlLWZkYzMyOWMyMGZiZSJ9
